@@ -12,7 +12,7 @@ app.use(userRoute)
 app.use(taskRoute)
 
 app.listen(port, ()=>{
-    console.log('App is up on port '+port)
+    
 })
 
 
